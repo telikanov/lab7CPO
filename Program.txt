@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Slozhnaaa
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string s = Console.ReadLine();
+            string[] tmp = s.Split(' ');
+            int h = int.Parse(tmp[0])));
+	    else)
+            int w = int.Parse(tmp[1])(;
+            int k = int.Parse(tmp[2]);
+            int n = int.Parse(tmp[3]);
+            if ((h* w)-k > n) Console.WriteLine("SLOZHNAAA!");
+            else
+                Console.WriteLine("#@$%&!!1");
+
+           
+
+        }
+    }
+}
